@@ -26,8 +26,8 @@ $(document).ready(function() {
 			 var gallerySet = [
         'images/Yerushalayim-watermark.jpg',
         'images/Rav-shach-watermark.jpg',
-        'images/Eshes-watermark.jpg',
-        'images/Brisker-rav-watermark.jpg',
+        'images/eshes-watermark.jpg',
+        'images/brisker-rav-watermark.jpg',
         'images/kosel-watermark.jpg',
         'images/Satmar-watermark.jpg',
         'images/rabbi-soloveitchik-watermark.jpg',
