@@ -1,0 +1,70 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-chevrons:before {
+	content: "\e000";
+}
+.flaticon-cross92:before {
+	content: "\e001";
+}
+.flaticon-down126:before {
+	content: "\e002";
+}
+.flaticon-eyeball5:before {
+	content: "\e003";
+}
+.flaticon-facebook23:before {
+	content: "\e004";
+}
+.flaticon-fullscreen6:before {
+	content: "\e005";
+}
+.flaticon-google116:before {
+	content: "\e006";
+}
+.flaticon-heart365:before {
+	content: "\e007";
+}
+.flaticon-instagram12:before {
+	content: "\e008";
+}
+.flaticon-leftarrow23:before {
+	content: "\e009";
+}
+.flaticon-pause49:before {
+	content: "\e00a";
+}
+.flaticon-pinterest3:before {
+	content: "\e00b";
+}
+.flaticon-play87:before {
+	content: "\e00c";
+}
+.flaticon-shop34:before {
+	content: "\e00d";
+}
+.flaticon-shopping111:before {
+	content: "\e00e";
+}
+.flaticon-squares30:before {
+	content: "\e00f";
+}
+.flaticon-twitter1:before {
+	content: "\e010";
+}
+.flaticon-up7:before {
+	content: "\e011";
+}
