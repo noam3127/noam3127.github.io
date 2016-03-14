@@ -4128,6 +4128,7 @@ Author URL: http://themeforest.net/user/codesymbol/
         .button-small.style-1:hover, .button-large.style-1:hover {
             border: 1px solid #ffffff;
             color: #ffffff;
+            box-shadow: 0 0 61px rgba(242, 232, 107, 0.7), inset 0 0 11px rgba(242, 232, 107, .7), 0 0 10px rgba(255, 255, 255, .7);
         }
         .button-small.style-2:hover, .button-large.style-2:hover {
             border: 1px solid #939393;
@@ -5145,7 +5146,7 @@ Author URL: http://themeforest.net/user/codesymbol/
     }
     #main-heading {
       position: absolute;
-      left: 36%;
+      left: calc(50% - 310px);
       bottom: 40%;
       letter-spacing: 11px
       z-index: 100;
