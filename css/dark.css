@@ -5157,4 +5157,7 @@ Author URL: http://themeforest.net/user/codesymbol/
     a {
       pointer: cursor;
     }
+    .prints-content {
+        font-size: 17px;
+    }
 
