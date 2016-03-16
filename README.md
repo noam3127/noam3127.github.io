@@ -1,2 +1,2 @@
-# [luminartimagery.com](https://luminartimagery.com)
-Code for the [Luminart Imagery website](https://luminartimagery.com).
+# [luminartimagery.com](http://luminartimagery.com)
+Code for the [Luminart Imagery website](http://luminartimagery.com).
