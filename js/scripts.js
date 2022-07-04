@@ -26,6 +26,7 @@ $(document).ready(function() {
 			 var gallerySet = [
         'images/Yerushalayim-watermark.jpg',
         'images/Rav-shach-watermark.jpg',
+        'images/Rav-Chaim-Kanievsky-watermark.jpg',
         'images/eshes-watermark.jpg',
         'images/brisker-rav-watermark.jpg',
         'images/kosel-watermark.jpg',
