@@ -4725,7 +4725,22 @@ Author URL: http://themeforest.net/user/codesymbol/
     }
 
     @media only screen and (max-width : 768px) {
-
+        #main-heading h2 {
+            font-size: .8px;
+            display: none;
+        }
+        #main-heading .button-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #main-heading .button-large {
+            margin: 5px 10px;
+            width: 190px;
+            border: 1px solid #ffffff;
+            color: #ffffff;
+            box-shadow: 0 0 61px rgb(242 232 107 / 70%), inset 0 0 11px rgb(242 232 107 / 70%), 0 0 10px rgb(255 255 255 / 70%);
+        }
         /*Preloader*/
             .loader .circle {
                 top: 48.5%!important;
@@ -4745,7 +4760,8 @@ Author URL: http://themeforest.net/user/codesymbol/
                 padding: 0px 30px;
             }
             footer .copyrights {
-                display: none;
+                /* display: none; */
+                margin-right: inherit;
             }
             footer .social-networks {
                 float: none;
@@ -5145,12 +5161,17 @@ Author URL: http://themeforest.net/user/codesymbol/
       text-align: center;
     }
     #main-heading {
-      position: absolute;
-      left: calc(50% - 310px);
-      bottom: 40%;
-      letter-spacing: 11px
-      z-index: 100;
+        width: 100%;
+        height: calc(100% - 40px);
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        position: absolute;
+        bottom: 1px;
+        z-index: 100;
     }
+
     .button-group {
       text-align: center
     }
