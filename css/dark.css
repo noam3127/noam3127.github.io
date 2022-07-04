@@ -4755,9 +4755,14 @@ Author URL: http://themeforest.net/user/codesymbol/
                 height: auto;
                 max-height: 100%;
             }
-            body footer,
             body header {
                 padding: 0px 30px;
+            }
+            body footer {
+                padding: 0px 10px;
+            }
+            body footer p.copyrights {
+                padding: 0px;
             }
             footer .copyrights {
                 /* display: none; */
@@ -4946,8 +4951,11 @@ Author URL: http://themeforest.net/user/codesymbol/
             }
 
         /*Footer*/
+            footer {
+                padding: 0px 10px;
+            }
             footer .copyrights {
-                display: none;
+                /* display: none; */
             }
             footer .social-networks {
                 float: none;
